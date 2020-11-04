@@ -1,5 +1,0 @@
-line 1 is added to file 1
-line 2 ad to fiel2
-third line added 
-fourth line
-firth line added to 1
