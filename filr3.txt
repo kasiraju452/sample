@@ -1,2 +1,0 @@
-line 1 is added to 3
-line 2 is added to 3
