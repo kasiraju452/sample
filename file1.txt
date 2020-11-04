@@ -1,0 +1,2 @@
+line 1 is added to file 1
+line 2 ad to fiel2
